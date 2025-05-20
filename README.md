@@ -8,6 +8,6 @@
 
 ---
 
-I'm an interdisciplinary Engineering graduate (UBC '25) with a passion for building intelligent systems, robust data pipelines, and impactful software. With 2+ years of hands-on internship experience, I've had the opportunity to deliver production software, architect cloud solutions using AWS, and leverage AI/ML to tackle complex engineering challenges.
+I'm an Integrated Engineering graduate (UBC '25) with a passion for building intelligent systems, robust data pipelines, and impactful software. With 2+ years of hands-on internship experience, I've had the opportunity to deliver production software, architect cloud solutions using AWS, and leverage AI/ML to tackle complex engineering challenges.
 
 I'm actively seeking new-grad opportunities in **Data Engineering**, **Applied Machine Learning**, or **Software Engineering** where I can contribute to innovative projects, grow my skills, and make a tangible impact.
